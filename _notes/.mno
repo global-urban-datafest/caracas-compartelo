@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_URL1" value="monto" />
+	<infoitem key="MM_URL_Count" value="14" />
+	<infoitem key="MM_URL2" value="factura" />
+	<infoitem key="MM_URL3" value="referido_por" />
+	<infoitem key="MM_Session1" value="empresa_id" />
+	<infoitem key="MM_Session_Count" value="4" />
+	<infoitem key="MM_Session2" value="vendedor_id" />
+	<infoitem key="MM_URL4" value="id_usuario" />
+	<infoitem key="MM_URL5" value="bono" />
+	<infoitem key="MM_URL6" value="resto" />
+	<infoitem key="MM_URL7" value="mensaje" />
+	<infoitem key="MM_URL8" value="usuarios" />
+	<infoitem key="MM_URL9" value="nombre" />
+	<infoitem key="MM_URL10" value="destino" />
+	<infoitem key="MM_URL11" value="origen" />
+	<infoitem key="PageAccessControlMethod" value="useAccessList" />
+	<infoitem key="MM_Session3" value="MM_Username" />
+	<infoitem key="MM_Session4" value="MM_UserGroup" />
+	<infoitem key="MM_URL12" value="cedula" />
+	<infoitem key="MM_URL13" value="nombres" />
+	<infoitem key="MM_URL14" value="nombresx" />
+</info>

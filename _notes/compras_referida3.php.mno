@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuarios" value="name:id_usuario;datatype:int,name:nombres;datatype:blob,name:ci;datatype:blob,name:telf;datatype:blob,name:status;datatype:blob,name:estado;datatype:blob,name:fecha_in;datatype:blob,name:emPresa_id;datatype:blob" />
+</info>

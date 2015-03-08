@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_empresas" value="name:empresa_id;datatype:int,name:empresa_nombre;datatype:blob,name:empresa_rif;datatype:blob,name:empresa_direccion;datatype:blob,name:empresa_email;datatype:blob,name:empresa_www;datatype:blob,name:empresa_tel1;datatype:blob,name:empresa_tel2;datatype:blob,name:empresa_contacto;datatype:blob,name:empresa_status;datatype:blob,name:empresa_imagen1;datatype:blob,name:empresa_imagen2;datatype:blob,name:empresa_sector;datatype:blob,name:empresa_estado;datatype:blob,name:empresa_pais;datatype:blob,name:empresa_twitter;datatype:blob,name:empresa_facebook;datatype:blob" />
+</info>
